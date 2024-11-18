@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/REPOSITORY/static/js/main.adcfd294.js",
-    "index.html": "/REPOSITORY/index.html",
-    "main.adcfd294.js.map": "/REPOSITORY/static/js/main.adcfd294.js.map"
+    "main.js": "/react-tic-tac-toe/static/js/main.adcfd294.js",
+    "index.html": "/react-tic-tac-toe/index.html",
+    "main.adcfd294.js.map": "/react-tic-tac-toe/static/js/main.adcfd294.js.map"
   },
   "entrypoints": [
     "static/js/main.adcfd294.js"
